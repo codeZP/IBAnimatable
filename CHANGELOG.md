@@ -16,7 +16,7 @@ N/A
 
 #### Bugfixes
 
-N/A
+- Make `placeholderColor` working with `placeholderText` AND `placehodler`. It will keep the current priorirty: `placeholderText` > `placehodler`. [#459](https://github.com/IBAnimatable/IBAnimatable/pull/459) by [@tbaranes](https://github.com/tbaranes)
 
 ---
 ### [4.0.0](https://github.com/IBAnimatable/IBAnimatable/releases/tag/4.0.0)
