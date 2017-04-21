@@ -16,7 +16,7 @@ N/A
 
 #### Bugfixes
 
-N/A
+- Fixed `AnimatableTextField` interface update when using it programatically [#458](https://github.com/IBAnimatable/IBAnimatable/pull/458) by [@tbaranes](https://github.com/tbaranes)
 
 ---
 ### [4.0.0](https://github.com/IBAnimatable/IBAnimatable/releases/tag/4.0.0)
